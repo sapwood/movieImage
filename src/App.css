@@ -1,0 +1,15 @@
+/* src/App.css */
+.container {
+  width: 100%;
+  max-width: 100%;
+  overflow: hidden;
+}
+
+.responsive-image {
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin: 0 auto; /* Center the image */
+}
+
+
